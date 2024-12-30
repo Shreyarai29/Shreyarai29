@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/banner.png)
+![MasterHead](https://github.com/Shreyarai29/Images/blob/master/Images/banner.png)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hii+There!+%F0%9F%91%8B;I'm++Shreya+Rai+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
@@ -158,7 +158,7 @@
      <h3>Software & Tools</h3>
     <!-- Data Visualization Tools -->
        <a href="https://www.adobe.com/acrobat/acrobat-pro.html" target="_blank" rel="noreferrer">
-            <img src="https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
+            <img src="https://github.com/Shreyarai29/Images/blob/master/Images/free-adobe-acrobat-pro-icon-down.png" alt="AdobeAcrobatPro" width="40" height="40"/>
         </a>
     </div>
     <br/>
@@ -215,10 +215,10 @@
             <img src="https://cdn.simpleicons.org/Brave/Brave-Original.svg" alt="Brave" width="40" height="40"/>
         </a>
                <a href="https://www.opera.com/download" target="_blank" rel="noreferrer">
-            <img src="https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
+            <img src="https://github.com/Shreyarai29/Images/blob/master/Images/opera-icon.svg" alt="Opera" width="40" height="40"/>
         </a>
                <a href="https://www.torproject.org/download/" target="_blank" rel="noreferrer">
-            <img src="https://github.com/Shreyarai29/Shreyarai29/blob/master/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
+            <img src="https://github.com/Shreyarai29/Images/blob/master/Images/tor-browser-icon.svg" alt="Tor" width="40" height="40"/>
         </a>
      </div>
      <h3>Most Used Operating System</h3>
